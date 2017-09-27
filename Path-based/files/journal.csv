@@ -1,0 +1,129 @@
+joid,journalid,name,periodical_type,publication_date,puid
+961004,J79,Communications of the ACM,magazine,1962-10-01,1545
+961009,J597,ACM SIGOPS Operating Systems Review,newsletter,1977-07-01,1545
+961072,J961,"ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)",transaction,2014-01-01,1545
+961095,J781,ACM Transactions on Modeling and Computer Simulation (TOMACS),transaction,2013-07-01,1545
+961127,J689,ACM SIGMOD Record,newsletter,1995-03-01,1545
+961193,J373,interactions,magazine,2015-04-27,1545
+961832,J778,ACM Transactions on Graphics (TOG),transaction,2013-07-21,1545
+961837,J62,ACM SIGDOC Asterisk Journal of Computer Documentation,newsletter,1986-04-01,1545
+961845,J46,ACM SIGAPL APL Quote Quad,newsletter,1981-03-01,1545
+961867,J967,ACM Journal on Emerging Technologies in Computing Systems (JETC),journal,2013-11-01,1545
+961873,J783,ACM Transactions on Programming Languages and Systems (TOPLAS),transaction,1995-09-01,1545
+961878,J707,ACM SIGSAM Bulletin,newsletter,1993-09-01,1545
+961931,J204,ACM Computing Surveys (CSUR),journal,2010-02-01,1545
+961950,J706,ACM SIGPLAN Notices,newsletter,1993-05-01,1545
+961962,J882,Queue,magazine,2013-08-01,1545
+961979,J219,ACM SIGMIS Database,newsletter,2002-08-29,1545
+962109,J1351,Communication Design Quarterly Review,newsletter,2009-03-01,1545
+962111,J32,ACM SIGAda Ada Letters,newsletter,1991-04-01,1545
+962130,J693,ACM SIGAPP Applied Computing Review,newsletter,1996-09-01,1545
+962137,J166,ACM SIGGRAPH Computer Graphics,newsletter,1986-05-01,1545
+962191,J957,ACM Transactions on Speech and Language Processing (TSLP),transaction,2013-07-01,1545
+962276,J981,ACM Transactions on Sensor Networks (TOSN),transaction,2009-05-01,1545
+962299,J188,ACM SIGCPR Computer Personnel,newsletter,1977-12-01,1545
+962324,J790,ACM Transactions on Software Engineering and Methodology (TOSEM),transaction,2006-01-01,1545
+962336,J728,ACM SIGSOFT Software Engineering Notes,newsletter,1989-05-01,1545
+962356,J960,ACM Transactions on Storage (TOS),transaction,2010-07-01,1545
+962372,J688,ACM SIGCSE Bulletin,newsletter,1997-09-01,1545
+962389,J401,Journal of the ACM (JACM),journal,1988-01-01,1545
+962419,J700,ACM SIGDA Newsletter,newsletter,1980-01-01,1545
+962444,J1010,ACM Transactions on Autonomous and Adaptive Systems (TAAS),transaction,2009-07-01,1545
+962452,J756,ACM Transactions on Computer-Human Interaction (TOCHI),transaction,1995-12-01,1545
+962572,J840,ACM Transactions on Embedded Computing Systems (TECS),transaction,2014-03-01,1545
+962619,J741,StandardView,magazine,1994-06-01,1545
+962660,J777,ACM Transactions on Database Systems (TODS),transaction,2010-04-01,1545
+962665,J691,ACM SIGSAC Review,newsletter,1989-07-01,1545
+962667,J708,ACM SIGUCCS Newsletter,newsletter,1994-01-01,1545
+962670,J948,ACM SIGSOC Bulletin,newsletter,1969-03-01,1545
+962726,J697,ACM SIGACT News,newsletter,2012-06-11,1545
+962957,J956,ACM SIGACCESS Accessibility and Computing,newsletter,2006-01-01,1545
+962995,J690,ACM SIGNUM Newsletter,newsletter,1967-06-01,1545
+963210,J1157,Journal on Computing and Cultural Heritage (JOCCH),journal,2011-12-21,1545
+963315,J198,ACM SIGCAS Computers and Society,newsletter,2010-09-01,1545
+963340,J582,netWorker,magazine,2009-03-01,1545
+963401,J89,ACM SIGARCH Computer Architecture News,newsletter,1972-04-01,1545
+963416,J513,ACM Letters on Programming Languages and Systems (LOPLAS),transaction,1992-12-01,1545
+963475,J686,ACM SIGART Bulletin,newsletter,1998-12-01,1545
+963486,J1232,ACM SIGMultimedia Records,newsletter,2015-06-16,1545
+963665,J101,ACM SIGCOMM Computer Communication Review,newsletter,1998-10-01,1545
+963757,J1318,ACM Transactions on Intelligent Systems and Technology (TIST),transaction,2015-05-04,1545
+963787,J1341,ACM Transactions on Interactive Intelligent Systems (TiiS),transaction,2014-11-21,1545
+963858,J774,ACM Transactions on Computer Systems (TOCS),transaction,1983-05-01,1545
+963889,J793,Ubiquity,magazine,2001-03-01,1545
+963922,J594,ACM SIGPLAN OOPS Messenger,newsletter,1992-07-01,1545
+963929,J703,ACM SIGMICRO Newsletter,newsletter,1981-09-01,1545
+964011,J701,ACM SIGIR Forum,newsletter,2014-06-26,1545
+964035,J548,ACM SIGMOBILE Mobile Computing and Communications Review,newsletter,2009-02-20,1545
+964076,J952,ACM SIGMAP Bulletin,newsletter,1973-11-01,1545
+964087,J678,ACM SIGCUE Outlook,newsletter,1998-10-01,1545
+964367,J509,ACM SIGPLAN Lisp Pointers,newsletter,1990-07-01,1545
+964403,J950,ACM SIGPC Notes,newsletter,1978-07-01,1545
+964495,J1356,ACM SIGHPC Connect,newsletter,2015-01-28,1545
+964550,J982,ACM Transactions on Algorithms (TALG),transaction,2013-06-01,1545
+964569,J820,ACM Transactions on Asian Language Information Processing (TALIP),transaction,2004-12-01,1545
+964641,J924,ACM Transactions on Architecture and Code Optimization (TACO),transaction,2010-12-01,1545
+964657,J122,ACM SIGCHI Bulletin - a supplement to ,newsletter,2001-11-01,1545
+964722,J711,ACM SIGSIM Simulation Digest,newsletter,1977-04-01,1545
+964815,J1496,ACM Transactions on Parallel Computing,transaction,2014-10-03,1545
+964855,J618,ACM SIGMETRICS Performance Evaluation Review,newsletter,2015-06-02,1545
+965064,J776,ACM Transactions on Design Automation of Electronic Systems (TODAES),transaction,2006-01-01,1545
+965091,J1000,ACM Communications in Computer Algebra,newsletter,2006-09-01,1545
+965101,J815,eLearn,magazine,2003-05-01,1545
+965349,J692,ACM SIGSMALL/PC Notes,newsletter,1989-11-01,1545
+965374,J1358,ACM SIGUCCS plugged in,newsletter,2012-08-17,1545
+965390,J782,ACM Transactions on Mathematical Software (TOMS),transaction,2000-06-01,1545
+965537,J1054,ACM Transactions on Knowledge Discovery from Data (TKDD),transaction,2010-12-01,1545
+965602,J685,3C ON-LINE,newsletter,1997-10-01,1545
+965638,J705,ACM SIGOIS Bulletin,newsletter,1996-12-01,1545
+965835,J994,ACM SIGBED Review,newsletter,2015-05-20,1545
+965859,J1320,ACM Transactions on Management Information Systems (TMIS),transaction,2011-06-01,1545
+965913,J286,ACM SIGPLAN Fortran Forum,newsletter,1987-04-01,1545
+965967,J1190,ACM Transactions on Computation Theory (TOCT),transaction,2014-05-01,1545
+966024,J1271,"XRDS: Crossroads, The ACM Magazine for Students",magazine,2014-06-01,1545
+966381,J1196,SIGSPATIAL Special,newsletter,2009-03-01,1545
+966599,J190,Crossroads,magazine,1995-11-01,1545
+966633,J779,ACM Transactions on Information Systems (TOIS),transaction,2007-02-01,1545
+967013,J814,Journal on Educational Resources in Computing (JERIC),journal,2005-06-01,1545
+967108,J1166,ACM Lisp Bulletin,newsletter,1978-07-01,1545
+967203,J771,IEEE/ACM Transactions on Networking (TON),transaction,1993-08-01,4124
+967351,J372,intelligence,magazine,2001-09-01,1545
+967638,J977,ACM SIGITE Newsletter,newsletter,2006-06-06,1545
+967949,J298,ACM SIGCAPH Computers and the Physically Handicapped,newsletter,1988-07-01,1545
+968086,J507,ACM SIGWEB Newsletter,newsletter,1996-06-01,1545
+968650,J687,ACM SIGCHI Bulletin,newsletter,1991-01-01,1545
+968983,J721,ACM SIGKDD Explorations Newsletter,newsletter,2005-12-01,1545
+969085,J773,ACM Transactions on Computational Logic (TOCL),transaction,2005-07-01,1545
+969293,J1359,ACM Transactions on Economics and Computation,transaction,2014-03-01,1545
+969369,J1062,ACM Transactions on the Web (TWEB),transaction,2011-07-01,1545
+969614,J780,ACM Transactions on Internet Technology (TOIT),transaction,2003-11-01,1545
+969668,J694,ACM SIGICE Bulletin,newsletter,1996-01-01,1545
+969816,J958,ACM SIGLASH Newsletter,newsletter,1980-12-01,1545
+969948,J789,ACM Transactions on Information and System Security (TISSEC),transaction,2013-09-01,1545
+970914,J932,ACM Transactions on Applied Perception (TAP),transaction,2006-07-01,1545
+971511,J684,ACM SIGecom Exchanges,newsletter,2005-04-01,1545
+971617,J1268,ACM Inroads,magazine,2011-08-31,1545
+971661,J912,Computers in Entertainment (CIE),magazine,2009-06-01,1545
+971749,J999,ACM SIGEVOlution,newsletter,2012-07-01,1545
+972504,J949,ACM SIGSMALL Newsletter,newsletter,1984-08-01,1545
+972523,J430,Journal of Experimental Algorithmics (JEA),journal,2004-12-31,1545
+972846,J954,IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB),transaction,2012-05-01,2678
+973123,J698,ACM SIGBIO Newsletter,newsletter,1977-03-01,1545
+974394,J1151,ACM Transactions on Reconfigurable Technology and Systems (TRETS),transaction,2012-06-01,1545
+974555,J24,ACM Journal of Computer Documentation (JCD),journal,2000-02-01,1545
+975322,J1512,ACM SIGLOG News,newsletter,2014-10-14,1545
+975348,J959,ACM SIGCSIM Installation Management Review,newsletter,1977-03-01,1545
+975532,J702,ACM SIGGROUP Bulletin,newsletter,2000-04-01,1545
+975657,J1513,AI Matters,newsletter,2015-06-16,1545
+979193,J951,ACM SIGMINI Newsletter,newsletter,1978-02-01,1545
+979247,J696,ACM SIGFORTH Newsletter,newsletter,1991-12-01,1545
+980053,J1193,ACM Transactions on Computing Education (TOCE),transaction,2010-08-01,1545
+982503,J1323,ACM SIGBioinformatics Record,newsletter,2012-01-01,1545
+984802,J1521,ACM Transactions on Asian and Low-Resource Language Information Processing,transaction,2015-04-20,1545
+985929,J1191,Journal of Data and Information Quality (JDIQ),journal,2012-08-01,1545
+987239,J1508,"IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)",transaction,2014-02-01,4124
+987389,J1352,ACM SIGITE Research in IT,newsletter,2010-07-01,1545
+988632,J1156,ACM Transactions on Accessible Computing (TACCESS),transaction,2011-04-14,1545
+1002576,J915,ACM SIGOA Newsletter,newsletter,1980-09-01,1545
+1021968,J1322,ACM SIGHIT Record,newsletter,2012-03-01,1545
+1028503,J1534,GetMobile: Mobile Computing and Communications,newsletter,2015-06-01,1545

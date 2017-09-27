@@ -1,0 +1,51 @@
+puid,publisherid,name,zipcode,city,state,country
+1545,PUB27,ACM,10121-0701,New York,NY,USA
+2678,PUB765,IEEE Computer Society Press,90720-1264,,,USA
+3039,PUB769,IEEE Computer Society,20036-1992,,,USA
+4124,PUB767,IEEE Press,08855-1331,,,USA
+5619,PUB4358,Winter Simulation Conference,,,,
+6032,PUB6257,"ICST (Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering)",B-1050,Brussels,,Belgium
+11015,PUB4834,European Design and Automation Association,,Leuven,,Belgium
+13696,PUB1795,Eurographics Association,CH-1288,Aire-la-Ville,,Switzerland
+13854,PUB3755,Springer-Verlag,,"Berlin, Heidelberg",,
+14091,PUB6819, Simulation International,92081,Vista,CA,
+16397,PUB1333,Society for Industrial and Applied Mathematics,19104-2688,,,USA
+17395,PUB790,Indiana University,46202,,,USA
+18933,PUB6845,Interactive Entertainment,,Wellington,,New Zealand
+30864,PUB1018,Morgan Kaufmann Publishers Inc.,94104-3205,San Francisco,CA,USA
+34855,PUB1645,USENIX Association,94710,,,USA
+49827,PUB1344,Society for Computer Simulation International,92177,San Diego,CA,USA
+52966,PUB30,Association for Computational Linguistics,07960-1961,,,USA
+60875,PUB1368,"Springer-Verlag New York, Inc.",10010,,,USA
+61122,PUB6741,LE CENTRE DE HAUTES ETUDES INTERNATIONALES D'INFORMATIQUE DOCUMENTAIRE,75009,Paris,,France
+74509,PUB269, Co.,,,,UK
+75816,PUB754,Association for Information Systems,30301-2712,,,USA
+95977,PUB182,"Australian Computer Society, Inc.",,,,Australia
+210024,PUB6315,International Foundation for Autonomous Agents and Multiagent Systems,,Richland,SC,
+223227,PUB6832,"Open Universiteit, Heerlen",6401 DL,Heerlen,,The Netherlands
+241630,PUB1372,Springer-Verlag,,,,UK
+252407,PUB280,Cambridge University Press,10011-4211,,,USA
+293704,PUB647,"Gordon and Breach Science Publishers, Inc.",07102,,,USA
+301639,PUB4050,SIAM,,,,
+314538,PUB668,George Washington University,20052,,,USA
+315615,PUB3956,International Teletraffic Congress,,,,
+348796,PUB26,ACM Press/Addison-Wesley Publishing Co.,10036,,,USA
+352736,PUB6932,A*STAR Computational Resource Centre,138632,,,Singapore
+359022,PUB6023,EDA Consortium,95113,San Jose,CA,USA
+365912,PUB6784,Brazilian Computer Society,91509-900,Porto Alegre,,Brazil
+378066,PUB2,American Association for Artificial Intelligence,94025-3496,,,USA
+384231,PUB6696,Desire Network,LA1 4WA,Lancaster,,UK
+393054,PUB7057,International World Wide Web Conferences Steering Committee,,,Republic and Canton of Geneva,Switzerland
+402173,PUB6721,CEUR-WS.org,52056,Aachen,,Germany
+423952,PUB6868,International Federation for Information Processing,A-2361,Laxenburg,,Austria
+499347,PUB6785,FMCAD Inc,,Austin,Texas,
+527168,PUB6906,IRIT Press,31062,Toulouse,,France
+586680,PUB6591,VTT Technical Research Centre of Finland,,,FI-02044 VTT,Finland
+605305,PUB555,"Elsevier North-Holland, Inc.",10010,,,USA
+613061,PUB6782,University of Aizu Press,965-8580,Fukushima-ken,,Japan
+623041,PUB200,British Computer Society,,,,UK
+716184,PUB4841,AIGA: American Institute of Graphic Arts,10010,New York,NY,USA
+732116,PUB766,IEEE Educational Activities Department,08855-1331,,,USA
+776063,PUB7393,"Hanbit Media, Inc.",121-839,Seoul,,South Korea
+800134,PUB6261,RMIT University,VIC 3001,Melbourne,,Australia
+941714,PUB6768,í,,", S.L.P",,xico
